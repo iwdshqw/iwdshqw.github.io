@@ -1,5 +1,9 @@
-x = 5
-y = 1
-z = x * y
+Name = input()
+Money = float(input())
+Debt = float(input())
 
-print(¨5¨)
+print(¨Name¨)
+print(Money)
+print(Debt)
+print(¨------------------¨)
+print(Money-Debt)
