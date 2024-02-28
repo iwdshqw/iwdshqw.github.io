@@ -1,11 +1,5 @@
-Name = input()
-Money = float(input())
-Debt = float(input())
+x = 5
+y = 1
+z = x * y
 
-print('-------------')
-print(Name)
-print(Money)
-print(Debt)
-print('-')
-print(¨-------------¨)
-print(Money-Debt)
+print(¨5¨)
