@@ -1,14 +1,11 @@
 import random
-import sleep
-Correct = 0
-Number = (random.randint(0, 10))
-Guess = input()
+import time
+Score = 0
+Number = (random.randint(0, 1))
+Guess = int(input())
 
-
-if (Correct > 15):
-    print("Yes")
-else:
-   print("No")
-
-
+if (Guess == Number):
+    print("Yes")
+    Score = Score + 1
+    print(Score)
 #Guess the number game
