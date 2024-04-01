@@ -1,1 +1,1 @@
-# ok
+# this repository is for fun
