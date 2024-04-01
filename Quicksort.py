@@ -1,1 +1,11 @@
-
+Number1 = float(input("Enter a number: "))
+Order1 = 1
+Number2 = float(input("Enter a number: "))
+Order2 = 2
+Number3 = float(input("Enter a number: "))
+Order3 = 3
+Number4 = float(input("Enter a number: "))
+Order4 = 4
+Number5 = float(input("Enter a number: "))
+Order5 = 5
+Number6 = float(input("Enter a number: "))
