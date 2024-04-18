@@ -3,11 +3,11 @@ import random
 Choice = input("Rock, Paper or scissors: ")
 Choice2 = random.randint(1, 3)
 
-if Choice == "rock":
+if Choice == ("rock") or (Choice == "Rock"):
     Choice = "🗿"
-elif Choice == "paper":
+elif Choice == ("paper") or (Choice == "Paper"):
     Choice = "📄"
-elif Choice == "scissors":
+elif Choice == ("scissors") or (Choice == "Scissors"):
     Choice = "✂️"
 else:
     print("Say Rock, Paper or Scissors")
